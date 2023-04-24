@@ -10,8 +10,9 @@ To run the app, you’ll need three free, external software programs:
 This repository contains:  
   - Instructions for downloading and installing
   - Download_camRa.r script (for downloading app)
-  - tar.gz file (contains app)
   - App citation
+
+It does not contain the actual app file due to GitHub's file size limitations. The link to the actual app file is in the instructions file. 
 
 For questions, contact Zach Fogel:   
   zfogel@ualberta.ca
