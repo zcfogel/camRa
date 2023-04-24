@@ -7,8 +7,13 @@ To run the app, you’ll need three free, external software programs:
   2. RStudio (free desktop version 2023.03.0+386 or higher, https://rstudio.com/products/rstudio/download/#download ).  
   3. Strawberry Perl (version 5.32.1.1 or higher http://strawberryperl.com/ ). 
 
-The required files for downloading and installing the camRa app are contained within this repository.   
+This repository contains:  
+  - Instructions for downloading and installing
+  - Download_camRa.r script (for downloading app)
+  - tar.gz file (contains app)
+  - App citation
 
 For questions, contact Zach Fogel:   
   zfogel@ualberta.ca
+
 
